@@ -7,7 +7,9 @@
 
 ## Technologies Used :-
 - Summarization Techniques:
+- 
 	-* Extractive Summarization.
+	
 	-* Abstractive Summarization with 3 pretrained model on hugging face.
 
 ## Deploy with :-
